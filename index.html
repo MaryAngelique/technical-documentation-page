@@ -16,7 +16,7 @@
         <ul>
             <li><a href = "#Introduction" class = "nav-link">Introduction</a></li>
             <li><a href = "#What_you_should_already_know" class = "nav-link">What you should already know</a></li>
-            <li><a href = "#JavaScript_and_Java" class = "nav-link">Introduction</a></li>
+            <li><a href = "#JavaScript_and_Java" class = "nav-link">JavaScript and Java</a></li>
             <li><a href = "#Hello_World" class = "nav-link">Hello World</a></li>
             <li><a href = "#Variables" class = "nav-link">Variables</a></li>
             <li><a href = "#Declaring_Variables" class = "nav-link">Declaring Variables</a></li>
@@ -24,9 +24,10 @@
             <li><a href = "#Global_Variables" class = "nav-link">Global Variables</a></li>
             <li><a href = "#Constants" class = "nav-link">Constants</a></li>
             <li><a href = "#Data_Types" class = "nav-link">Data Types</a></li>
-            <li><a href = "#if...else_statement" class = "nav-link">if ... else Statement</a></li>
+            <li><a href = "#if...else_Statement" class = "nav-link">if...else Statement</a></li>
             <li><a href = "#while_Statement" class = "nav-link">while Statement</a></li>
             <li><a href = "#Function_Declarations" class = "nav-link">Function Declarations</a></li>
+            <li><a href = "#Reference" class = "nav-link">Reference</a></li>
         </ul>
     </nav>
 
@@ -176,6 +177,7 @@
             </article>
         </section>
 
+        <!-- Variable Scope -->
         <section class = "main-section" id = "Variable_Scope">
             <header>Variable Scope</header>
             <article>
@@ -207,6 +209,26 @@
                     if (true) { let y = 5; } console.log(y); // ReferenceError: y is not
                     defined
                 </code>
+            </article>
+        </section>
+
+        <!-- Global Variables -->
+        <section class="main-section" id="Global_Variables">
+            <header>Global Variables</header>
+            <article>
+                <p>
+                    Global variables are in fact properties of the global object. In web
+                    pages the global object is window, so you can set and access global
+                    variables using the window.variable syntax.
+                </p>
+
+                <p>
+                    Consequently, you can access global variables declared in one window or
+                    frame from another window or frame by specifying the window or frame
+                    name. For example, if a variable called phoneNumber is declared in a
+                    document, you can refer to this variable from an iframe as
+                    parent.phoneNumber.
+                </p>
             </article>
         </section>
 
