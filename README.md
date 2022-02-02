@@ -22,9 +22,9 @@ https://technical-documentation-page-kappa.vercel.app/
 
 - I can see a nav element with a corresponding id="navbar".✅
 
-- The navbar element should contain one header element which contains text that describes the topic of the technical documentation.
+- The navbar element should contain one header element which contains text that describes the topic of the technical documentation.✅
 
-- Additionally, the navbar should contain link (a) elements with the class of nav-link. There should be one for every element with the class main-section.
+- Additionally, the navbar should contain link (a) elements with the class of nav-link. There should be one for every element with the class main-section.✅
 
 - The header element in the navbar must come before any link (a) elements in the navbar.
 
