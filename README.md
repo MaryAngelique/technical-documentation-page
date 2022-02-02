@@ -18,9 +18,9 @@ https://technical-documentation-page-kappa.vercel.app/
 
 - The .main-section elements should contain at least 5 code elements total (not each).✅
 
-- The .main-section elements should contain at least 5 li items total (not each).
+- The .main-section elements should contain at least 5 li items total (not each).✅
 
-- I can see a nav element with a corresponding id="navbar".
+- I can see a nav element with a corresponding id="navbar".✅
 
 - The navbar element should contain one header element which contains text that describes the topic of the technical documentation.
 
