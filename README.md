@@ -14,9 +14,9 @@ https://technical-documentation-page-kappa.vercel.app/
 
 - Each section element with the class of main-section should also have an id that corresponds with the text of each header contained within it. Any spaces should be replaced with underscores (e.g. The section that contains the header "JavaScript and Java" should have a corresponding id="JavaScript_and_Java").✅
 
-- The .main-section elements should contain at least 10 p elements total (not each).
+- The .main-section elements should contain at least 10 p elements total (not each).✅
 
-- The .main-section elements should contain at least 5 code elements total (not each).
+- The .main-section elements should contain at least 5 code elements total (not each).✅
 
 - The .main-section elements should contain at least 5 li items total (not each).
 
