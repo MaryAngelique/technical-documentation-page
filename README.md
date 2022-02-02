@@ -6,9 +6,9 @@ https://technical-documentation-page-kappa.vercel.app/
 ***
 
 #### *Requirements*
-- I can see a main element with a corresponding id="main-doc", which contains the page's main content (technical documentation).
+- I can see a main element with a corresponding id="main-doc", which contains the page's main content (technical documentation).✅
 
-- Within the #main-doc element, I can see several section elements, each with a class of main-section. There should be a minimum of 5.
+- Within the #main-doc element, I can see several section elements, each with a class of main-section. There should be a minimum of 5.✅
 
 - The first element within each .main-section should be a header element which contains text that describes the topic of that section.
 
