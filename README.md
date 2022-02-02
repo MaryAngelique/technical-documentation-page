@@ -35,4 +35,4 @@ https://technical-documentation-page-kappa.vercel.app/
 - On regular sized devices (laptops, desktops), the element with id="navbar" should be shown on the left side of the screen and should always be visible to the user.✅
 
 - My Technical Documentation page should use at least one media query.✅
-✅
+
